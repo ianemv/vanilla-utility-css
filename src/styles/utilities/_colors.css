@@ -1,0 +1,14 @@
+.bg-gray-100 {
+	background-color: #f7fafc;
+  }
+  
+  .border-gray-400 {
+	border-color: #cbd5e0;
+  }
+  
+  .text-green-500 {
+	color: #48bb78;
+  }
+  
+  /* Usage example: <div class="bg-gray-100 border-gray-400 text-green-500">Hello, world!</div> */
+  

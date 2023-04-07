@@ -1,0 +1,10 @@
+/* Import variables */
+@import './_variables.css';
+
+/* Global styles */
+body {
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+  background-color: var(--color-background);
+}

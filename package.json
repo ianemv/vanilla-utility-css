@@ -1,0 +1,27 @@
+{
+  "name": "vanilla-utility-css",
+  "version": "0.0.1",
+  "description": "Basic CSS framework by ianemv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianemv/vanilla-utility-css.git"
+  },
+  "keywords": [
+    "Vanilla",
+    "CSS"
+  ],
+  "author": "Ian Villanueva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianemv/vanilla-utility-css/issues"
+  },
+  "homepage": "https://github.com/ianemv/vanilla-utility-css#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21"
+  }
+}
